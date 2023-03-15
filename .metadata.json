@@ -2,5 +2,9 @@
   {
     "package": "learningtower",
     "oncran": true
+  },
+  {
+    "package": "mcvis",
+    "oncran": true
   }
 ]

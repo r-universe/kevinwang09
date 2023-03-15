@@ -8,3 +8,8 @@
 	url = https://github.com/kevinwang09/learningtower
 	shallow = true
 	registered = true
+[submodule "mcvis"]
+	path = mcvis
+	url = https://github.com/kevinwang09/mcvis
+	shallow = true
+	registered = true
